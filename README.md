@@ -2,7 +2,7 @@
 
 
 ### 디발자가 되고싶어요!!! (디자인 + 개발)
-### 25살 (만24세) 
+### 25 세
 - Email: 2jae66@gmail.com
 - GitHub: https://github.com/2jae6
 # 경력
