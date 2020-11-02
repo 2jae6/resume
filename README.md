@@ -15,18 +15,27 @@
 # 개인 프로젝트
 
 ### 조형아 지금 어때?
+고양이 조형이가 실시간 미세먼지 수치와 기온을 알려주고 이에 따라 표정과 배경이 변합니다.
+- 기간 : 2020.06
+- 소속 : 개인
+- 역할 : iOS
+- 사용기술 : Swift, Alamofire
 
 ### 갓종대왕 번역기
+한국인들만 알아볼 수 있는 한국어로 변환해주는 어플리케이션으로 String의 분해 조합에 대해 깊이 배울 수 있었던 프로젝트
+- 기간 : 2020.03
+- 소속 : 개인
+- 역할 : iOS
+- 사용기술 : Swift
 
 ### 부엉이 영단어
 기획과 설계의 중요성을 깨닫게 해준 고마운 iOS 인생 첫 프로젝트
 - 기간 : 2019.03 ~ 2020.06
 - 소속 : 개인
 - 역할 : iOS
-- 사용기술 : swift, SQLite3
-
-
+- 사용기술 : Swift, SQLite3
 <img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/1.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/2.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/3.png" alt="image" width="150" height="300"/>
+
 
 # 수상 / 교육 / 논문 / 기타
 
