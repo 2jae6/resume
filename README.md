@@ -20,6 +20,7 @@
 - 소속 : 개인
 - 역할 : iOS
 - 사용기술 : Swift, Alamofire
+<img src="https://github.com/2jae6/resume/blob/main/Img/GonZee/1.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/GonZee/2.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/GonZee/3.png" alt="image" width="150" height="300"/>
 
 ### 갓종대왕 번역기
 한국인들만 알아볼 수 있는 한국어로 변환해주는 어플리케이션으로 String의 분해 조합에 대해 깊이 배울 수 있었던 프로젝트
@@ -27,6 +28,7 @@
 - 소속 : 개인
 - 역할 : iOS
 - 사용기술 : Swift
+<img src="https://github.com/2jae6/resume/blob/main/Img/KoreanConverter/1.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/KoreanConverter/2.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/KoreanConverter/3.png" alt="image" width="150" height="300"/>
 
 ### 부엉이 영단어
 기획과 설계의 중요성을 깨닫게 해준 고마운 iOS 인생 첫 프로젝트
