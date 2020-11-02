@@ -2,9 +2,9 @@
 
 
 ### 디발자가 되고싶어요!!! (디자인 + 개발)
+### 25살 (만24세) 
 - Email: 2jae66@gmail.com
 - GitHub: https://github.com/2jae6
-
 # 경력
 [마드라스 체크](https://flow.team/index.act)
 - 2020.10 ~ 현재
