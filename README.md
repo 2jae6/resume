@@ -24,8 +24,8 @@
 - 역할 : iOS
 - 사용기술 : swift, SQLite3
 <img width="500" height="800" alt="image" src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/1.png">
-<img width="500" alt="image" src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/2.png">
-<img width="500" alt="image" src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/3.png">
+<img width="500" height="800" alt="image" src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/2.png">
+<img width="500" height="800" alt="image" src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/3.png">
 
 
 # 수상 / 교육 / 논문
