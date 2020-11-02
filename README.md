@@ -26,7 +26,7 @@
 <img width="500" height="800" alt="image" src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/1.png">
 <img width="500" height="800" alt="image" src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/2.png">
 <img width="500" height="800" alt="image" src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/3.png">
-![image](https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/1.png "Title" {width=40px height=800px})
-<img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/3.png" alt="image" width="10%" height="10%"/>
+
+<img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/3.png" alt="image" width="100" height="100"/>
 # 수상 / 교육 / 논문
 
