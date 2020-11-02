@@ -23,7 +23,10 @@
 - 소속 : 개인
 - 역할 : iOS
 - 사용기술 : swift, SQLite3
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/13097922/82330172-6f48ea00-9a1d-11ea-9756-3b3203a889a0.png">
+<img width="500" alt="image" src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/1.png">
+<img width="500" alt="image" src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/2.png">
+<img width="500" alt="image" src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/3.png">
 
 
-# 수상
+# 수상 / 교육 / 논문
+
