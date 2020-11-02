@@ -20,6 +20,7 @@
 - 소속 : 개인
 - 역할 : iOS
 - 사용기술 : Swift, Alamofire
+
 <img src="https://github.com/2jae6/resume/blob/main/Img/GonZee/1.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/GonZee/2.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/GonZee/3.png" alt="image" width="150" height="300"/>
 
 ### 갓종대왕 번역기
@@ -28,6 +29,7 @@
 - 소속 : 개인
 - 역할 : iOS
 - 사용기술 : Swift
+
 <img src="https://github.com/2jae6/resume/blob/main/Img/KoreanConverter/1.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/KoreanConverter/2.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/KoreanConverter/3.png" alt="image" width="150" height="300"/>
 
 ### 부엉이 영단어
@@ -36,6 +38,7 @@
 - 소속 : 개인
 - 역할 : iOS
 - 사용기술 : Swift, SQLite3
+
 <img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/1.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/2.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/3.png" alt="image" width="150" height="300"/>
 
 
