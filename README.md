@@ -25,8 +25,6 @@
 - 사용기술 : swift, SQLite3
 
 
-<img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/1.png" alt="image" width="150" height="300"/>
-<img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/2.png" alt="image" width="150" height="300"/>
-<img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/3.png" alt="image" width="150" height="300"/>
+<img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/1.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/2.png" alt="image" width="150" height="300"/><img src="https://github.com/2jae6/resume/blob/main/Img/OwlEnglish/3.png" alt="image" width="150" height="300"/>
 # 수상 / 교육 / 논문
 
