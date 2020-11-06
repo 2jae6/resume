@@ -1,7 +1,7 @@
 # 이재욱
 
 
-### 디발자가 되고싶어요!!! (디자인 + 개발)
+### 디발자가 되는 꿈을 꾸다. (디자인 + 개발)
 ### 25 세
 - Email: 2jae66@gmail.com
 - GitHub: https://github.com/2jae6
