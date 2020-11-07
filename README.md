@@ -12,7 +12,7 @@
 [대한민국 공군 작전사령부 정보보호실](https://rokaf.airforce.mil.kr/airforce/index.do)
 - 2017.01 ~ 2018.12
 
--[KUCIS 소속 정보보호 동아리 HUB](https://ko-kr.facebook.com/groups/190003711036007/)
+[KUCIS 소속 정보보호 동아리 HUB](https://ko-kr.facebook.com/groups/190003711036007/)
 - 2015.03 ~ 2016.12
 
 # 개인 프로젝트
