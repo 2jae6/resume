@@ -5,12 +5,13 @@
 ### 25 세
 - Email: 2jae66@gmail.com
 - GitHub: https://github.com/2jae6
-# 경력
+# 경력 및 활동
 [마드라스 체크](https://flow.team/index.act)
 - 2020.10 ~ 현재
-
 [대한민국 공군 작전사령부 정보보호실](https://rokaf.airforce.mil.kr/airforce/index.do)
 - 2017.01 ~ 2018.12
+-[KUCIS 소속 정보보호 동아리 HUB]
+- 2015.03 ~ 2016.12
 
 # 개인 프로젝트
 
