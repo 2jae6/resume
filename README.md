@@ -1,7 +1,7 @@
 # 이재욱
 
 
-### 사소한 것에 정직하자. 디발자가 되자!(디자인 + 개발)
+### 디발자가 되고싶다.(디자인 + 개발)
 ### 25 세
 - Email: 2jae66@gmail.com
 - GitHub: https://github.com/2jae6
