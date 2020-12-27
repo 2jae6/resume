@@ -1,7 +1,7 @@
 # 이재욱
 
 
-### 디발자가 되고싶다.
+### 안녕하세요~
 ### 25 세
 - Email: 2jae66@gmail.com
 - GitHub: https://github.com/2jae6
